@@ -1,0 +1,10 @@
+data/
+output_results/
+*.pth
+*.txt
+__pycache__/
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
